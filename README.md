@@ -1,8 +1,5 @@
 # Big_Mart_Sales_Prediction  
 
-
-# Big Mart Sales Prediction
-
 ![Big Mart Sales](https://example.com/big_mart_sales_image.png)
 
 ## Overview
